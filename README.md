@@ -1,3 +1,3 @@
 # FundingLab Webhook
 
-Ein einfacher Webhook-Handler für Whop x MetaApi Integration mit Vercel.
+Finales Setup für Vercel Deployment mit funktionierendem API-Endpunkt.
