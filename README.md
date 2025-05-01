@@ -1,3 +1,3 @@
 # FundingLab Webhook
 
-Finales Setup für Vercel Deployment mit funktionierendem API-Endpunkt.
+Vercel-kompatibler Webhook mit 'type: module' und funktionsfähigem Endpunkt.
